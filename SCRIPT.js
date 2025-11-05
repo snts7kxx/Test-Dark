@@ -1,1 +1,1 @@
-<script src="TESTANDO"></script.js>
+alert("Testando");
